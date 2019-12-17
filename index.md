@@ -9,6 +9,6 @@ In contrast to previous Apprenti cohorts I and my peers have been graced with a 
 
 [Link to my third post.](https://pseudotsuga.github.io/posts/post3)
 
-[Link to my fourth post.](https://pseuotsuga.github.io/posts/post4)
+[Link to my fourth post.](https://pseudotsuga.github.io/posts/post4)
 
-[Link to my fifth post.](https://pseuotsuga.github.io/posts/post5)
+[Link to my fifth post.](https://pseuodtsuga.github.io/posts/post5)
