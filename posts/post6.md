@@ -4,7 +4,7 @@
 
 Today I fully accomplished one of my two programming goals from yesterday: I reviewed my 401 pre-work, discussed it with some of my classmates, and began working on it.
 
-I made progress on my machine-learning project but didn't fully complete my goal. 
+I made progress on my machine-learning project but didn't fully complete my goal. I did identify a basic tensorflow project but didn't fully recreate it. I also read quite a bit of documentation for tensorflow.js
 I was distracted by a side-project with a friend involving automating a process in his biochemistry research.
 
 We drafted a problem statement, considered two approaches, and started reading documentation.
